@@ -1,4 +1,4 @@
-package InheritenceAndPolymorphism;
+package III_InheritenceAndPolymorphism;
 
 //Abstract class will provide framework to other classes. They itself cannot be called
 //Abstract class can contain both concrete and abstract methods

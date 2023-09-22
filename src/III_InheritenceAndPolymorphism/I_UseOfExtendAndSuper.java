@@ -1,4 +1,4 @@
-package InheritenceAndPolymorphism;
+package III_InheritenceAndPolymorphism;
 
 //Class A is the super class or parent
 class A {

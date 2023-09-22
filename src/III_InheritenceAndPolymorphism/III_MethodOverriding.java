@@ -1,4 +1,4 @@
-package InheritenceAndPolymorphism;
+package III_InheritenceAndPolymorphism;
 
 //Check and you will find if method name is same that of parent or grandparent they are overridden by child
 class First {

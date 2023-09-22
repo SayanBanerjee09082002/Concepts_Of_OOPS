@@ -1,4 +1,4 @@
-package InheritenceAndPolymorphism;
+package III_InheritenceAndPolymorphism;
 
 import java.util.Arrays;
 

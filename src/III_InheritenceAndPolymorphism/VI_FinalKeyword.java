@@ -1,4 +1,4 @@
-package InheritenceAndPolymorphism;
+package III_InheritenceAndPolymorphism;
 
 class Alpha {
     //This int cannot be overridden

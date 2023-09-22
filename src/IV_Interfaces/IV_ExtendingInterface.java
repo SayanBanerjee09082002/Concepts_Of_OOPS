@@ -1,4 +1,4 @@
-package Interfaces;
+package IV_Interfaces;
 
 //If you are extending then you also have to define abstract methods of super interface
 interface InterfaceA {

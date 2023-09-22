@@ -1,4 +1,4 @@
-package InheritenceAndPolymorphism;
+package III_InheritenceAndPolymorphism;
 
 //Multiple inheritance is not allowed, so we use successive inheritance as shown
 class Integer {

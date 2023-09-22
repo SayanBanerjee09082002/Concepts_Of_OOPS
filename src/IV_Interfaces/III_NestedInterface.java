@@ -1,4 +1,4 @@
-package Interfaces;
+package IV_Interfaces;
 
 interface OuterInterface {
     interface InnerInterface1 {

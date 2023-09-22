@@ -1,4 +1,4 @@
-package Interfaces;
+package IV_Interfaces;
 
 //Interface provide blue-print to the class
 //Interface attributes and methods are automatically abstract, public and final

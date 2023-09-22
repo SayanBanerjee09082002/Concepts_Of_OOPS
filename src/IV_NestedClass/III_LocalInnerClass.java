@@ -1,4 +1,4 @@
-package NestedClass;
+package IV_NestedClass;
 
 class Example {
     public static void method() {

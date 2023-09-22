@@ -1,4 +1,4 @@
-package NestedClass;
+package IV_NestedClass;
 
 class Outer {
     class Inner1 {

@@ -1,4 +1,4 @@
-package NestedClass;
+package IV_NestedClass;
 
 //Anonymous class are declared without naming them, hence anonymous
 interface A {
