@@ -1,7 +1,7 @@
 package V_Lamda;
 
 interface DoubleGenerator {
-    double generator(double n);
+    abstract  double generator(double n);
 }
 
 public class III_LamdaAsArgument {

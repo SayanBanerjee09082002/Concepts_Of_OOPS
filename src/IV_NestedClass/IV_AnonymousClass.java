@@ -1,6 +1,7 @@
 package IV_NestedClass;
 
 //Anonymous class are declared without naming them, hence anonymous
+
 interface A {
     int num1 = 32;
     String word1 = "Interface A";

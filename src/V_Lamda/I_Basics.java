@@ -29,7 +29,7 @@ public class I_Basics {
         //This will give error as NumberGenerator.word is a string not a double
         //numberGenerator = ()->20+NumberGenerator.word;
 
-        //When we instantiate a lambda, every time it is called it will call the method (if it have any) its having. See the output
+        //When we instantiate a lambda, every time it is called it will call the method (if it has any) its having. See the output
         numberGenerator = () -> Math.random();
         System.out.println(numberGenerator.generateNumber());
         System.out.println(numberGenerator.generateNumber());
