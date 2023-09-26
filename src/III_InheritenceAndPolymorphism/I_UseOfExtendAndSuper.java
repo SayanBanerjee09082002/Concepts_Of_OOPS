@@ -23,6 +23,7 @@ class A {
 
 //class B is the child of A
 class B extends A {
+    //NOTE: Private attributes are not inherited, however since we are using constructor it makes an object of superclass and by using getters we can extract it
     private double rational;
     private boolean bool;
 
