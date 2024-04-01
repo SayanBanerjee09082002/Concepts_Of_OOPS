@@ -81,11 +81,11 @@ class FlyweightFactory {
             trainSeatDetail = new TrainSeatDetail(category, meal, beading);
             trainCache.put(UUID.randomUUID().toString(), trainSeatDetail);
         }
-        return new BookTrain(name, age, seat, trainSeatDetail);
+        return new BookTrain(name, age , seat, trainSeatDetail);
     }
 }
 
-public class FlyweightPattern {
+public class                FlyweightPattern {
     public static void main(String[] args) {
         FlyweightFactory factory = new FlyweightFactory();
 

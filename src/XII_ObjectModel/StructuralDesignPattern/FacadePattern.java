@@ -40,7 +40,7 @@ public class FacadePattern {
         MultimediaFacade multimediaFacade = new MultimediaFacade();
 
         // Using the facade to play audio and video
-        multimediaFacade.playAudio("song.mp3");
+
         multimediaFacade.playVideo("movie.mp4");
     }
 }
